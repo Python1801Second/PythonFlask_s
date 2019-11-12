@@ -1,10 +1,9 @@
-
+print("my sister")
 print("你真是一个小天才！")
 
 print("你就是一个弱智")
 
 print("知道了吗？")
 
-print("听说距离放假还有5天半")
-
-print("距离毕业还有两个多月")
+print("第二次打印妈妈")
+print("第二次提交my sister")
